@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- ![](https://komarev.com/ghpvc/?username=michalliu&label=PROFILE+VIEWS&base=1000&abbreviated=true&color=brightgreen) -->
+![Visitor Count](https://profile-counter.glitch.me/michalliu/count.svg)
