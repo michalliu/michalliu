@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 <!-- ![](https://komarev.com/ghpvc/?username=michalliu&label=PROFILE+VIEWS&base=1000&abbreviated=true&color=brightgreen) -->
 ![Profile Views](https://komarev.com/ghpvc/?username=michalliu&color=brightgreen&style=flat-square)
 
-<img width="880" height="192" alt="github-user-contribution-light" src="https://github.com/user-attachments/assets/8fa48d1a-3e88-407c-abbe-d64c464a24e1" />
+<img width="880" height="192" src="https://github.com/user-attachments/assets/8fa48d1a-3e88-407c-abbe-d64c464a24e1" />
